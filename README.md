@@ -133,6 +133,6 @@ See the `LICENSE` file for full terms.
 
 For project inquiries:
 
-Your Name: Sumayya
+Name: Sumayya
 Your University: University Of Hertfordshire 
 Email: sum90285@gmail.com
